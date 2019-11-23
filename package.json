@@ -1,0 +1,17 @@
+{
+  "name": "horikita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore ."
+  },
+  "author": "Tiramitzu Dev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-superfetch": "^0.1.9"
+  }
+}
